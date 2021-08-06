@@ -1,0 +1,12 @@
+E:\AspNet\DzDependencyInjection\ServicesNew\bin\Debug\netcoreapp3.1\ServicesNew.deps.json
+E:\AspNet\DzDependencyInjection\ServicesNew\bin\Debug\netcoreapp3.1\ServicesNew.dll
+E:\AspNet\DzDependencyInjection\ServicesNew\bin\Debug\netcoreapp3.1\ServicesNew.pdb
+E:\AspNet\DzDependencyInjection\ServicesNew\bin\Debug\netcoreapp3.1\Interfaces.dll
+E:\AspNet\DzDependencyInjection\ServicesNew\bin\Debug\netcoreapp3.1\Interfaces.pdb
+E:\AspNet\DzDependencyInjection\ServicesNew\obj\Debug\netcoreapp3.1\ServicesNew.csprojAssemblyReference.cache
+E:\AspNet\DzDependencyInjection\ServicesNew\obj\Debug\netcoreapp3.1\ServicesNew.AssemblyInfoInputs.cache
+E:\AspNet\DzDependencyInjection\ServicesNew\obj\Debug\netcoreapp3.1\ServicesNew.AssemblyInfo.cs
+E:\AspNet\DzDependencyInjection\ServicesNew\obj\Debug\netcoreapp3.1\ServicesNew.csproj.CoreCompileInputs.cache
+E:\AspNet\DzDependencyInjection\ServicesNew\obj\Debug\netcoreapp3.1\ServicesNew.csproj.CopyComplete
+E:\AspNet\DzDependencyInjection\ServicesNew\obj\Debug\netcoreapp3.1\ServicesNew.dll
+E:\AspNet\DzDependencyInjection\ServicesNew\obj\Debug\netcoreapp3.1\ServicesNew.pdb
