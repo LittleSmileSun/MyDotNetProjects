@@ -7,3 +7,12 @@ E:\AspNet\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.As
 E:\AspNet\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
 E:\AspNet\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
 E:\AspNet\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

@@ -10,3 +10,15 @@ E:\AspNet\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.csproj
 E:\AspNet\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
 E:\AspNet\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.dll
 E:\AspNet\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.pdb
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\bin\Debug\netcoreapp3.1\Services.dll
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\bin\Debug\netcoreapp3.1\Services.pdb
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\bin\Debug\netcoreapp3.1\Interfaces.dll
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\bin\Debug\netcoreapp3.1\Interfaces.pdb
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.dll
+E:\AspNet\MyProjects\MyDotNetProjects\Dz1DependencyInjection\DzDependencyInjection\Services\obj\Debug\netcoreapp3.1\Services.pdb

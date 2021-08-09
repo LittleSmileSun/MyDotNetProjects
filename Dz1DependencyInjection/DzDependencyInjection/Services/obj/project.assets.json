@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AspNet\\DzDependencyInjection\\Services\\Services.csproj",
+      "projectUniqueName": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "E:\\AspNet\\DzDependencyInjection\\Services\\Services.csproj",
+      "projectPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "E:\\AspNet\\DzDependencyInjection\\Services\\obj\\",
+      "outputPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\AspNet\\DzDependencyInjection\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "E:\\AspNet\\DzDependencyInjection\\Interfaces\\Interfaces.csproj"
+            "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Interfaces\\Interfaces.csproj"
             }
           }
         }

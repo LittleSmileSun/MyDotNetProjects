@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pd+sKbWodvrijRz6d4kISkVRNu/UvxrRJv6emdWIh7wHi98onziJhgOutf7k8jjPcad7VSOY378ca2WenHMwpg==",
+  "dgSpecHash": "90zfEOpAfT9yg3Tsb7VXZbMDVTX3sFCvAKmGYNtsry7rXgoWRehCaBkDgrxyw/ACfEDkCyIWD9bu84skUcgWlg==",
   "success": true,
-  "projectFilePath": "E:\\AspNet\\DzDependencyInjection\\Interfaces\\Interfaces.csproj",
+  "projectFilePath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

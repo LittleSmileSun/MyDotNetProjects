@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YLQHXAsbsPCTERPKw0i5Omu/7lGysdO/31w14z6ZPkK5MNIsP11CPzial0JDgnsukmJaODdNTzR0ahahXW3zOA==",
+  "dgSpecHash": "Iv49Ig5mRh6cQ0C0GMGvOYLb2v/fyR6FrWvnA9fnUg5SEVdSjOlqB50H1S9pv45bXnaPLlgnkXoloZl78qvaQg==",
   "success": true,
-  "projectFilePath": "E:\\AspNet\\DzDependencyInjection\\DzDependencyInjection\\DzDependencyInjection.csproj",
+  "projectFilePath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\DzDependencyInjection\\DzDependencyInjection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

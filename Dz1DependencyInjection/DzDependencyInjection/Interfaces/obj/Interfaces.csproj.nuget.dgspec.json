@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AspNet\\DzDependencyInjection\\Interfaces\\Interfaces.csproj": {}
+    "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Interfaces\\Interfaces.csproj": {}
   },
   "projects": {
-    "E:\\AspNet\\DzDependencyInjection\\Interfaces\\Interfaces.csproj": {
+    "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AspNet\\DzDependencyInjection\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "E:\\AspNet\\DzDependencyInjection\\Interfaces\\Interfaces.csproj",
+        "projectPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "E:\\AspNet\\DzDependencyInjection\\Interfaces\\obj\\",
+        "outputPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",

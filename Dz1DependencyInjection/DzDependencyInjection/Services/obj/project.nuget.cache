@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5e25r52Gef3z1PM8iaGSo8XqgPPze34kfDvYyC0Ponu9gGExLcUSN5z5GzEuxv6fr/yrRB4ms7aItTSiaWpyQ==",
+  "dgSpecHash": "Mtivb8P9WG3o3G+dIKH8lJ7tbvkQpy1wEdSFfNJrKaossWmcEQYdB9qiZV2Tcf/LWRT1uzVGiOpmKbku8MF3+A==",
   "success": true,
-  "projectFilePath": "E:\\AspNet\\DzDependencyInjection\\Services\\Services.csproj",
+  "projectFilePath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz1DependencyInjection\\DzDependencyInjection\\Services\\Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

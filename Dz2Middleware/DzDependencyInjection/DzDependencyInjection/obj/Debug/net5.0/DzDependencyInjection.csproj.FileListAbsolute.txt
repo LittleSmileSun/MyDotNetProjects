@@ -1,0 +1,83 @@
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\appsettings.Development.json
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\appsettings.json
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.exe
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.deps.json
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.runtimeconfig.json
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.runtimeconfig.dev.json
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\ref\DzDependencyInjection.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.pdb
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Interfaces.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Services.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Interfaces.pdb
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Services.pdb
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.csprojAssemblyReference.cache
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.AssemblyInfoInputs.cache
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.AssemblyInfo.cs
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.csproj.CoreCompileInputs.cache
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.MvcApplicationPartsAssemblyInfo.cs
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.MvcApplicationPartsAssemblyInfo.cache
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\staticwebassets\DzDependencyInjection.StaticWebAssets.Manifest.cache
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\staticwebassets\DzDependencyInjection.StaticWebAssets.xml
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\scopedcss\bundle\DzDependencyInjection.styles.css
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.RazorTargetAssemblyInfo.cache
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.csproj.CopyComplete
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\ref\DzDependencyInjection.dll
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.pdb
+E:\AspNet\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.genruntimeconfig.cache
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\appsettings.Development.json
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\appsettings.json
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.exe
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.deps.json
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.runtimeconfig.json
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.runtimeconfig.dev.json
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\ref\DzDependencyInjection.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\DzDependencyInjection.pdb
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Interfaces.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Services.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Interfaces.pdb
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\Services.pdb
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.csprojAssemblyReference.cache
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.AssemblyInfoInputs.cache
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.AssemblyInfo.cs
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.csproj.CoreCompileInputs.cache
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.MvcApplicationPartsAssemblyInfo.cs
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.MvcApplicationPartsAssemblyInfo.cache
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\staticwebassets\DzDependencyInjection.StaticWebAssets.Manifest.cache
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\staticwebassets\DzDependencyInjection.StaticWebAssets.xml
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\scopedcss\bundle\DzDependencyInjection.styles.css
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.RazorTargetAssemblyInfo.cache
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.csproj.CopyComplete
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\ref\DzDependencyInjection.dll
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.pdb
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\obj\Debug\net5.0\DzDependencyInjection.genruntimeconfig.cache
+E:\AspNet\Новая папка\DzDependencyInjection\DzDependencyInjection\bin\Debug\net5.0\web.config
