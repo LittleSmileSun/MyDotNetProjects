@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Services\\Services.csproj",
+      "projectUniqueName": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Services\\Services.csproj",
+      "projectPath": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Services\\obj\\",
+      "outputPath": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj"
+            "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj"
             }
           }
         }

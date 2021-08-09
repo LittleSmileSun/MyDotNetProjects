@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKY/W+E5mgdpy8IRRQ5GL3117LMPTla+zIFFSQK2a2iFUM7JvSuKg/EgOsAXYvJ1pKgKmx5WGqGaYhccW3/15g==",
+  "dgSpecHash": "KXtR5+FJVXBhqCUfiYb6mPpKVrMwzuAKDkS2drl4q29itMAGh6OKB9Gwcxa1R48t8/aKR6T/aRfiZ7PAq3cn2A==",
   "success": true,
-  "projectFilePath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj",
+  "projectFilePath": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

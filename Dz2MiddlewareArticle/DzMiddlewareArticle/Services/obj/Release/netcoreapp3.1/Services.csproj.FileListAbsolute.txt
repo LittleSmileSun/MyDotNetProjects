@@ -10,3 +10,15 @@ E:\AspNet\MyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\S
 E:\AspNet\MyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.csproj.CopyComplete
 E:\AspNet\MyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.dll
 E:\AspNet\MyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.pdb
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\bin\Release\netcoreapp3.1\Services.deps.json
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\bin\Release\netcoreapp3.1\Services.dll
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\bin\Release\netcoreapp3.1\Services.pdb
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\bin\Release\netcoreapp3.1\Interfaces.dll
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\bin\Release\netcoreapp3.1\Interfaces.pdb
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.csprojAssemblyReference.cache
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.AssemblyInfo.cs
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.csproj.CopyComplete
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.dll
+E:\AspNet\GitRepozitoryWithMyProjects\MyDotNetProjects\Dz2MiddlewareArticle\DzMiddlewareArticle\Services\obj\Release\netcoreapp3.1\Services.pdb

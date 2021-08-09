@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj",
+      "projectPath": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\obj\\",
+      "outputPath": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UpuufzGnqLBqBmLEPkJFEqY+alMkDtaMfWeP5Nhck2prhtiqWt79UMPLjom3/+9WEVr5lU40h9L7IAwRNG/bKA==",
+  "dgSpecHash": "GCoe2icFDgN/8z9U2IQT2SvfXqZZ3hQ7nn3aHlA2U/DNtFubUwGkwhZ56QBjnAomagM8l1noOEgX/AQjRq07Nw==",
   "success": true,
-  "projectFilePath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\DzMiddlewareArticle\\DzMiddlewareArticle.csproj",
+  "projectFilePath": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\DzMiddlewareArticle\\DzMiddlewareArticle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

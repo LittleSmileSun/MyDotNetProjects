@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rY4qNf+LExZQRdzwMaQC08Wlahea1d6zfGw6I9/3RIfVASlUTu+/pJTsvNolmiR4b3zZhlTmuW4kSf167k7ZvQ==",
+  "dgSpecHash": "wNdCibrSKdc625IyF10YsF3pM1oAeGZr2NzQyk0hmlT8M9xu77XJOyV/oY4TmWKAOlJf6nTkSRhz5SKIj3NNTw==",
   "success": true,
-  "projectFilePath": "E:\\AspNet\\MyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Services\\Services.csproj",
+  "projectFilePath": "E:\\AspNet\\GitRepozitoryWithMyProjects\\MyDotNetProjects\\Dz2MiddlewareArticle\\DzMiddlewareArticle\\Services\\Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
