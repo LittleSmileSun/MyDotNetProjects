@@ -1,0 +1,15 @@
+{
+  "Name": "Murka",
+  "Age": 3,
+  "Weight": 3.5,
+  "Colour": "Black",
+  "Kittens": [
+    "Avrora",
+    "Tom",
+    "Jack"
+  ],
+  "Owner": {
+    "FirstName": "Alex",
+    "LastName": "Boyko"
+  }
+}
