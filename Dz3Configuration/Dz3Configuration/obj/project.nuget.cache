@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MvPn/2OVu6RJQuoVr7wE5BwELqIIp0Vj6dRrokA52sFjlZcaWi2KG7UUjcuioCE/3VdIHlKmzIVdfvgSntJG1Q==",
+  "dgSpecHash": "4u4ROJX+bqdzvM5qdAgX/eS0C1HFoqrr35tpTl5nadXCHYpL4I0+K8VS46TiFsWnZ43yMRoujYvDq18WNxaOyA==",
   "success": true,
-  "projectFilePath": "E:\\AspNet\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj",
+  "projectFilePath": "E:\\AspNet\\папка\\MyDotNetProjects\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

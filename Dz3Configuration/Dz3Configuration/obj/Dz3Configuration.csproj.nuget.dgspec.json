@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AspNet\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj": {}
+    "E:\\AspNet\\папка\\MyDotNetProjects\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj": {}
   },
   "projects": {
-    "E:\\AspNet\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj": {
+    "E:\\AspNet\\папка\\MyDotNetProjects\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AspNet\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj",
+        "projectUniqueName": "E:\\AspNet\\папка\\MyDotNetProjects\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj",
         "projectName": "Dz3Configuration",
-        "projectPath": "E:\\AspNet\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj",
+        "projectPath": "E:\\AspNet\\папка\\MyDotNetProjects\\Dz3Configuration\\Dz3Configuration\\Dz3Configuration.csproj",
         "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "E:\\AspNet\\Dz3Configuration\\Dz3Configuration\\obj\\",
+        "outputPath": "E:\\AspNet\\папка\\MyDotNetProjects\\Dz3Configuration\\Dz3Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
